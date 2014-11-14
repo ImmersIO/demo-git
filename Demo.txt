@@ -1,1 +1,2 @@
 Say there's a change on the remote.
+And a new change. So this file is modified.
